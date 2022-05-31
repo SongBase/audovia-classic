@@ -36,7 +36,7 @@ layout:
     bind: $SNAP/usr/share/alsa
 
 apps:
-  audovia-lite:
+  audovia-classic:
     # command-chain: ["snap/command-chain/alsa-launch"]
     command-chain: [ bin/desktop-launch, snap/command-chain/alsa-launch ]
     command: opt/Audovia/Audovia.sh
@@ -90,7 +90,7 @@ parts:
       - libsndfile1
       - libxcb1        
   
-  audovia-lite:
+  audovia-classic:
     after: [ myalsa, alsa-mixin, desktop-qt5 ]
     plugin: nil
     override-build: |
