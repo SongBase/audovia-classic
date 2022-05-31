@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=4.06
-Name=Audovia Lite
+Name=Audovia Classic
 Comment=Database application for making music using JFugue MusicStrings
-Exec=audovia-lite
-Icon=/snap/audovia-lite/current/meta/gui/SongBuilderColourIcon48.png
+Exec=audovia-classic
+Icon=/snap/audovia-classic/current/meta/gui/SongBuilderColourIcon48.png
 Terminal=false
 StartupNotify=true
 Type=Application
