@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=4.06
+Name=Audovia Lite
+Comment=Database application for making music using JFugue MusicStrings
+Exec=audovia-lite
+Icon=${SNAP}/meta/gui/audovia-lite.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Audio;Midi;Music;AudioVideo;Education;
+
