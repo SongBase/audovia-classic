@@ -2,7 +2,7 @@ name: audovia-classic
 version: '4.06'
 summary: Database application for making music using JFugue MusicStrings
 description: |
-  Make music on your laptop or PC with Audovia Lite. Songs can have up to 15 instrumental voices and a percussion track with instruments chosen from the default soundbank of 128 instruments or from any other soundbank of your choice. Songs can be developed, tested and edited very quickly and easily by virtue of the database structure and the JFugue MusicString notation.
+  Make music on your laptop or PC with Audovia Classic. Songs can have up to 15 instrumental voices and a percussion track with instruments chosen from the default soundbank of 128 instruments or from any other soundbank of your choice. Songs can be developed, tested and edited very quickly and easily by virtue of the database structure and the JFugue MusicString notation.
 
   Notes within a MusicString are specified by their name and octave or by their MIDI value and their durations are specified either by character code, or numerically. You can use notes from C0 to G10, corresponding to MIDI values 0 to 127. Middle C is C5.
 
@@ -18,7 +18,7 @@ description: |
 
   You can share songs by exporting and importing songs in XML format. Use File/Song Import to import the demonstration songs.
 
-  The application can be run by typing audovia-lite at the terminal or by using the desktop shortcut in /snap/audovia-lite/current/.
+  The application can be run by typing audovia-classic at the terminal or by using the desktop shortcut in /snap/audovia-classic/current/.
 
   For a quick start you can use File/Song Import and open the Demo folder, then select a song and Import Song. Then, from Tree View, select "Song", press Play, then Default Soundbank.
 
